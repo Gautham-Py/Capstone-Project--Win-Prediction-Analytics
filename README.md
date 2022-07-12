@@ -34,8 +34,12 @@ SBU Head. You are hired to help your organization identify the best bid
 manager-SBU Head combination who can convert an opportunity to win with
 the provided data points.
 
-Objective 1: Predictive Analytics - Build a ML model to predict the probability
+> Objective 1
+
+Predictive Analytics - Build a ML model to predict the probability
 of win/loss for bidding activities for a potential client.
 
-Objective 2: Prescriptive Analytics – Identify variable/s that are most likely to
+> Objective 2
+
+Prescriptive Analytics – Identify variable/s that are most likely to
 help in converting an opportunity into a win.

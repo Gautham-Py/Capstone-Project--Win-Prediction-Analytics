@@ -21,7 +21,7 @@ can ensure that for the most profitable deals there are resources available.
 
 You have been provided with a single file which contains data related to the
 projects/deals won or lost. This data contains the project category, price and
-sector from 2011 to 2018
+sector from 2011 to 2018.
 
 
 > Data and Problem Detail

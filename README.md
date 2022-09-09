@@ -24,7 +24,7 @@ projects/deals won or lost. This data contains the project category, price and
 sector from 2011 to 2018.
 
 
-> Data & Problem Detail
+> Data & Problem Detail :
 
 Your Organization puts in a lot of effort in bidding preparation with no
 indications whether it will be worth it. With multiple bid managers and SBU

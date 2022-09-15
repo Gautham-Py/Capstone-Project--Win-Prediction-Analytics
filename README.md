@@ -39,7 +39,7 @@ the provided data points.
 Predictive Analytics - Build a ML model to predict the probability
 of win/loss for bidding activities for a potential client.
 
-> Objective  2:
+> Objective  2
 
 Prescriptive Analytics - Identify variable/s that are most likely to
 help in converting an opportunity into a win.

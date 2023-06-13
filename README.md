@@ -3,7 +3,7 @@ In this project, We analyze and predict the win possibilities of deals/projects 
 This will enable the IT Consulting Company to manage the effort required to win a deal to meet the growth targets.
 
 
-> Market Outlook:
+> Market Outlook
 
 IT firms compete for winning large deals by designing and proposing solutions
 to their prospective clients. These deals often differ from each other in terms sector of the
@@ -17,14 +17,14 @@ With the probability of winning known in advance, deal engagement manager
 can ensure that for the most profitable deals there are resources available.
 
 
-> Overview of the Problem:
+> Overview of the Problem
 
 You have been provided with a single file which contains data related to the
 projects/deals won or lost. This data contains the project category, price and
 sector from 2011 to 2018.
 
 
-> Data & Problem Detail:
+> Data & Problem Detail
 
 Your Organization puts in a lot of effort in bidding preparation with no
 indications whether it will be worth it. With multiple bid managers and SBU

@@ -17,7 +17,7 @@ With the probability of winning known in advance, deal engagement manager
 can ensure that for the most profitable deals there are resources available.
 
 
-> Overview of the Problem:
+> Overview of the Problem
 
 You have been provided with a single file which contains data related to the
 projects/deals won or lost. This data contains the project category, price and

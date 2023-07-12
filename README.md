@@ -3,7 +3,7 @@ In this project, We analyze and predict the win possibilities of deals/projects 
 This will enable the IT Consulting Company to manage the effort required to win a deal to meet the growth targets.
 
 
-> Market Outlook
+> Market Outlook.
 
 IT firms compete for winning large deals by designing and proposing solutions
 to their prospective clients. These deals often differ from each other in terms sector of the

@@ -1,4 +1,4 @@
-> Capstone-Project
+Capstone-Project
 Win-Prediction-Analytics
 In this project, We analyze and predict the win possibilities of deals/projects for an IT Consulting Company and understand the impact of known variables on the possibility of winning a deal. 
 This will enable the IT Consulting Company to manage the effort required to win a deal to meet the growth targets.
